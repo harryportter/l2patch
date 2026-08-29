@@ -1,6 +1,7 @@
 ﻿# RelativePath|Size|MD5
 system/armorgrp.dat|1144112|915f895d366826ff793456ff7e54ed90
 system/etcitemgrp.dat|208688|fca170723749096133ad08cc3c49226a
+system/instantzonedata-k.dat|1456|dbc27080baf0f93ae533e291c904c3d9
 system/itemname-k.dat|527792|45acaec09e0a7155808b1cd179258658
 system/optiondata_client-k.dat|175664|4988b0973b7ace3ece0556d44517ea07
 system/SkillName-k.dat|766000|ddabab82735555d35d88f2d0048b0291
