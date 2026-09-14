@@ -1,5 +1,5 @@
 ﻿# RelativePath|Size|MD5
-system/armorgrp.dat|1144112|915f895d366826ff793456ff7e54ed90
+system/armorgrp.dat|1144112|45bd99a9acecd509fc1426c6a568f35a
 system/etcitemgrp.dat|208688|fca170723749096133ad08cc3c49226a
 system/instantzonedata-k.dat|1456|dbc27080baf0f93ae533e291c904c3d9
 system/itemname-k.dat|527792|45acaec09e0a7155808b1cd179258658
