@@ -5,4 +5,5 @@ system/instantzonedata-k.dat|1456|dbc27080baf0f93ae533e291c904c3d9
 system/itemname-k.dat|527792|45acaec09e0a7155808b1cd179258658
 system/optiondata_client-k.dat|175664|4988b0973b7ace3ece0556d44517ea07
 system/SkillName-k.dat|766000|ddabab82735555d35d88f2d0048b0291
+system/sysstring-k.dat|21296|5f99c005988df90fd4ebcd0a91839654
 system/weapongrp.dat|363568|286728cd456b07de89e3739cc000c32e
