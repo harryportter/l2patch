@@ -3,7 +3,6 @@ system/armorgrp.dat|1144112|45bd99a9acecd509fc1426c6a568f35a
 system/etcitemgrp.dat|208688|fca170723749096133ad08cc3c49226a
 system/instantzonedata-k.dat|1456|e3aee0a838f5de5f04a2b0e28c50e472
 system/itemname-k.dat|527792|45acaec09e0a7155808b1cd179258658
-system/l2.ini|4144|d14a8c488124ae9fdbe7de9835c5bf5a
 system/mobskillanimgrp.dat|141872|ffdc0809af6ae01cd5d20e3b595fa848
 system/npcgrp.dat|434480|4c34bab4da3898d11f512fd7a1d43d7c
 system/npcname-e.dat|85552|8cdfc7faeb961cfd8454cc94370d5c66
